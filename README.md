@@ -67,9 +67,11 @@ A clean star schema isn't just about looking tidy — it directly affects:
 
 ## Screenshots
 
-- `before_model.png` — the original, unstructured model
-- `after_model.png` — the finished star schema
+**Before — the original, unstructured model**
+![Before modeling](images/before_model.png)
 
 ---
+**After — the finished star schema**
+![After modeling](images/after_model.png)
 
 Feel free to open an issue or reach out if you want to talk through any of the design decisions.
